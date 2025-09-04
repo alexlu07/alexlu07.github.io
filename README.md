@@ -1,1 +1,3 @@
-# alexlu07.github.io
+# Temporary
+
+This personal website is still in progress...
